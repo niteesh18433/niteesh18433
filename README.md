@@ -1,12 +1,13 @@
 ![logo](https://github.com/niteesh18433/niteesh18433/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+
+[![](https://visitcount.itsvg.in/api?id=niteesh18433&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niteesh Arigela </h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62817f9b3b2282d9aaa89cef538f3eb288b9fff1a1ff79c0edbb958bf4d75de9/68747470733a2f2f6d617274696e76616c64612e636f6d2f696d672f61626f75742e676966">
 
-[![](https://visitcount.itsvg.in/api?id=niteesh18433&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# About Me :
+# About Me 
 - 🌱 I’m currently learning **Full-Stack,DevOps,Networking**
 
 - 👯 I’m looking to collaborate on [Data Security Approach on Cyber Crime With Web Vulnerability](https://github.com/niteesh18433/D-Data-security-approach-on-cyber-crime-with-web-vulnerability)
