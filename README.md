@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niteesh18433](https://github.com/niteesh18433)
 
-- 💬 Ask me about **Java JavaScript and Html Css**
+- 💬 Ask me about **Full-Stack,DevOps,Networking**
 
 - 📫 How to reach me **niteeshme666@gmail.com**
 
